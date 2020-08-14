@@ -1,0 +1,4 @@
+[22-Jul-2019 14:46:04 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'mitf7949'@'localhost' to database 'mitf794_mitra_sehat' in /home/mitf7949/public_html/koneksi.php on line 3
+[22-Jul-2019 14:46:04 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/login-aksi.php on line 7
+[22-Jul-2019 14:46:04 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/login-aksi.php on line 9
+[22-Jul-2019 14:46:04 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mitf7949/public_html/koneksi.php:7) in /home/mitf7949/public_html/login-aksi.php on line 71

@@ -1,0 +1,150 @@
+[22-Jul-2019 14:42:38 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mitf7949/public_html/admin/koneksi.php on line 3
+[22-Jul-2019 14:42:38 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 51
+[22-Jul-2019 14:42:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 52
+[22-Jul-2019 14:42:38 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mitf7949/public_html/admin/index.php:1) in /home/mitf7949/public_html/admin/index.php on line 58
+[22-Jul-2019 14:42:38 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mitf7949/public_html/admin/koneksi.php on line 3
+[22-Jul-2019 14:42:38 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 83
+[22-Jul-2019 14:42:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 84
+[22-Jul-2019 14:42:38 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mitf7949/public_html/admin/index.php:1) in /home/mitf7949/public_html/admin/index.php on line 90
+[22-Jul-2019 14:42:38 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 94
+[22-Jul-2019 14:42:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 98
+[22-Jul-2019 14:42:38 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 101
+[22-Jul-2019 14:42:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 105
+[22-Jul-2019 14:42:38 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 108
+[22-Jul-2019 14:42:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 112
+[22-Jul-2019 14:42:38 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 115
+[22-Jul-2019 14:42:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 120
+[22-Jul-2019 14:42:38 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 123
+[22-Jul-2019 14:42:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 128
+[22-Jul-2019 14:42:38 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 566
+[22-Jul-2019 14:42:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 593
+[22-Jul-2019 14:42:38 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 566
+[22-Jul-2019 14:42:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 593
+[22-Jul-2019 14:42:38 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 566
+[22-Jul-2019 14:42:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 593
+[22-Jul-2019 14:42:38 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 590
+[22-Jul-2019 14:42:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 593
+[22-Jul-2019 14:42:38 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 590
+[22-Jul-2019 14:42:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 593
+[22-Jul-2019 14:42:38 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 590
+[22-Jul-2019 14:42:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 593
+[22-Jul-2019 14:42:38 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 590
+[22-Jul-2019 14:42:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 593
+[22-Jul-2019 14:42:38 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 590
+[22-Jul-2019 14:42:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 593
+[22-Jul-2019 14:42:38 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 590
+[22-Jul-2019 14:42:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 593
+[22-Jul-2019 14:42:38 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 578
+[22-Jul-2019 14:42:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 593
+[22-Jul-2019 14:42:43 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mitf7949/public_html/admin/koneksi.php on line 3
+[22-Jul-2019 14:42:43 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/pelayanan.php on line 50
+[22-Jul-2019 14:42:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/pelayanan.php on line 51
+[22-Jul-2019 14:42:43 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mitf7949/public_html/admin/pelayanan.php:1) in /home/mitf7949/public_html/admin/pelayanan.php on line 57
+[22-Jul-2019 14:42:43 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mitf7949/public_html/admin/koneksi.php on line 3
+[22-Jul-2019 14:42:43 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/pelayanan.php on line 280
+[22-Jul-2019 14:42:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/pelayanan.php on line 281
+[22-Jul-2019 14:42:43 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mitf7949/public_html/admin/koneksi.php on line 3
+[22-Jul-2019 14:42:43 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/pelayanan.php on line 391
+[22-Jul-2019 14:42:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/pelayanan.php on line 397
+[22-Jul-2019 14:44:27 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mitf7949/public_html/admin/koneksi.php on line 3
+[22-Jul-2019 14:44:27 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/pelayanan.php on line 50
+[22-Jul-2019 14:44:27 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/pelayanan.php on line 51
+[22-Jul-2019 14:44:27 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mitf7949/public_html/admin/pelayanan.php:1) in /home/mitf7949/public_html/admin/pelayanan.php on line 57
+[22-Jul-2019 14:44:27 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mitf7949/public_html/admin/koneksi.php on line 3
+[22-Jul-2019 14:44:27 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/pelayanan.php on line 280
+[22-Jul-2019 14:44:27 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/pelayanan.php on line 281
+[22-Jul-2019 14:44:27 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mitf7949/public_html/admin/koneksi.php on line 3
+[22-Jul-2019 14:44:27 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/pelayanan.php on line 391
+[22-Jul-2019 14:44:27 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/pelayanan.php on line 397
+[22-Jul-2019 14:49:19 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mitf7949/public_html/admin/koneksi.php on line 3
+[22-Jul-2019 14:49:19 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 51
+[22-Jul-2019 14:49:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 52
+[22-Jul-2019 14:49:19 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mitf7949/public_html/admin/index.php:1) in /home/mitf7949/public_html/admin/index.php on line 58
+[22-Jul-2019 14:49:19 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mitf7949/public_html/admin/koneksi.php on line 3
+[22-Jul-2019 14:49:19 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 83
+[22-Jul-2019 14:49:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 84
+[22-Jul-2019 14:49:19 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mitf7949/public_html/admin/index.php:1) in /home/mitf7949/public_html/admin/index.php on line 90
+[22-Jul-2019 14:49:19 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 94
+[22-Jul-2019 14:49:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 98
+[22-Jul-2019 14:49:19 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 101
+[22-Jul-2019 14:49:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 105
+[22-Jul-2019 14:49:19 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 108
+[22-Jul-2019 14:49:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 112
+[22-Jul-2019 14:49:19 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 115
+[22-Jul-2019 14:49:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 120
+[22-Jul-2019 14:49:19 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 123
+[22-Jul-2019 14:49:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 128
+[22-Jul-2019 14:49:19 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 566
+[22-Jul-2019 14:49:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 593
+[22-Jul-2019 14:49:19 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 566
+[22-Jul-2019 14:49:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 593
+[22-Jul-2019 14:49:19 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 566
+[22-Jul-2019 14:49:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 593
+[22-Jul-2019 14:49:19 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 590
+[22-Jul-2019 14:49:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 593
+[22-Jul-2019 14:49:19 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 590
+[22-Jul-2019 14:49:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 593
+[22-Jul-2019 14:49:19 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 590
+[22-Jul-2019 14:49:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 593
+[22-Jul-2019 14:49:19 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 590
+[22-Jul-2019 14:49:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 593
+[22-Jul-2019 14:49:19 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 590
+[22-Jul-2019 14:49:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 593
+[22-Jul-2019 14:49:19 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 590
+[22-Jul-2019 14:49:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 593
+[22-Jul-2019 14:49:19 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 578
+[22-Jul-2019 14:49:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 593
+[22-Jul-2019 14:51:43 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mitf7949/public_html/admin/koneksi.php on line 3
+[22-Jul-2019 14:51:43 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 51
+[22-Jul-2019 14:51:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 52
+[22-Jul-2019 14:51:43 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mitf7949/public_html/admin/index.php:1) in /home/mitf7949/public_html/admin/index.php on line 58
+[22-Jul-2019 14:51:43 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mitf7949/public_html/admin/koneksi.php on line 3
+[22-Jul-2019 14:51:43 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 83
+[22-Jul-2019 14:51:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 84
+[22-Jul-2019 14:51:43 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mitf7949/public_html/admin/index.php:1) in /home/mitf7949/public_html/admin/index.php on line 90
+[22-Jul-2019 14:51:43 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 94
+[22-Jul-2019 14:51:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 98
+[22-Jul-2019 14:51:43 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 101
+[22-Jul-2019 14:51:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 105
+[22-Jul-2019 14:51:43 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 108
+[22-Jul-2019 14:51:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 112
+[22-Jul-2019 14:51:43 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 115
+[22-Jul-2019 14:51:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 120
+[22-Jul-2019 14:51:43 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 123
+[22-Jul-2019 14:51:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 128
+[22-Jul-2019 14:51:43 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 566
+[22-Jul-2019 14:51:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 593
+[22-Jul-2019 14:51:43 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 566
+[22-Jul-2019 14:51:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 593
+[22-Jul-2019 14:51:43 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 566
+[22-Jul-2019 14:51:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 593
+[22-Jul-2019 14:51:43 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 590
+[22-Jul-2019 14:51:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 593
+[22-Jul-2019 14:51:43 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 590
+[22-Jul-2019 14:51:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 593
+[22-Jul-2019 14:51:43 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 590
+[22-Jul-2019 14:51:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 593
+[22-Jul-2019 14:51:43 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 590
+[22-Jul-2019 14:51:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 593
+[22-Jul-2019 14:51:43 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 590
+[22-Jul-2019 14:51:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 593
+[22-Jul-2019 14:51:43 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 590
+[22-Jul-2019 14:51:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 593
+[22-Jul-2019 14:51:43 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/index.php on line 578
+[22-Jul-2019 14:51:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/index.php on line 593
+[22-Jul-2019 14:51:48 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mitf7949/public_html/admin/koneksi.php on line 3
+[22-Jul-2019 14:51:48 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/pelayanan.php on line 50
+[22-Jul-2019 14:51:48 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/pelayanan.php on line 51
+[22-Jul-2019 14:51:48 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mitf7949/public_html/admin/pelayanan.php:1) in /home/mitf7949/public_html/admin/pelayanan.php on line 57
+[22-Jul-2019 14:51:48 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mitf7949/public_html/admin/koneksi.php on line 3
+[22-Jul-2019 14:51:48 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/pelayanan.php on line 280
+[22-Jul-2019 14:51:48 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/pelayanan.php on line 281
+[22-Jul-2019 14:51:48 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mitf7949/public_html/admin/koneksi.php on line 3
+[22-Jul-2019 14:51:48 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mitf7949/public_html/admin/pelayanan.php on line 391
+[22-Jul-2019 14:51:48 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/mitf7949/public_html/admin/pelayanan.php on line 397
+[22-Jul-2019 15:24:59 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mitf7949/public_html/admin/excel_pasien.php:1) in /home/mitf7949/public_html/admin/excel_pasien.php on line 31
+[22-Jul-2019 15:24:59 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mitf7949/public_html/admin/excel_pasien.php:1) in /home/mitf7949/public_html/admin/excel_pasien.php on line 32
+[22-Jul-2019 15:25:38 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mitf7949/public_html/admin/excel_pasien.php:1) in /home/mitf7949/public_html/admin/excel_pasien.php on line 31
+[22-Jul-2019 15:25:38 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mitf7949/public_html/admin/excel_pasien.php:1) in /home/mitf7949/public_html/admin/excel_pasien.php on line 32
+[22-Jul-2019 15:27:49 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mitf7949/public_html/admin/excel_pembayaran.php:1) in /home/mitf7949/public_html/admin/excel_pembayaran.php on line 31
+[22-Jul-2019 15:27:49 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mitf7949/public_html/admin/excel_pembayaran.php:1) in /home/mitf7949/public_html/admin/excel_pembayaran.php on line 32
