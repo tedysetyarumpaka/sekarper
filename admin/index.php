@@ -202,7 +202,7 @@ window.onunload=function(){null};
                                     <div class="overview__inner">
                                         <div class="overview-box clearfix">
                                             <div class="text">
-                                                <input type="text" name="perhari" id="perhari" readonly="readonly" style=" background-color: #00b5e9; color: #ffffff; font-size: 24px"><br>
+                                                <input type="text" name="perhari" id="perhari" readonly="readonly" style=" background-color: #00b5e9; color: #ffffff; font-size: 20px"><br>
                                                 <span>Pendapatan perhari</span>
                                             </div>
                                         </div>
@@ -214,7 +214,7 @@ window.onunload=function(){null};
                                     <div class="overview__inner">
                                         <div class="overview-box clearfix">
                                             <div class="text">
-                                                <input type="text" name="perbulan" id="perbulan" readonly="readonly" style="background-color: #00b5e9; color: #ffffff; font-size: 24px"><br>
+                                                <input type="text" name="perbulan" id="perbulan" readonly="readonly" style="background-color: #00b5e9; color: #ffffff; font-size: 20px"><br>
                                                 <span>Pendapatan perbulan</span>
                                             </div>
                                         </div>
@@ -226,7 +226,7 @@ window.onunload=function(){null};
                                     <div class="overview__inner">
                                         <div class="overview-box clearfix">
                                             <div class="text">
-                                                <input type="text" name="itung" id="itung" readonly="readonly" style="background-color: #00b5e9; color: #ffffff; font-size: 24px"><br>
+                                                <input type="text" name="itung" id="itung" readonly="readonly" style="background-color: #00b5e9; color: #ffffff; font-size: 20px"><br>
                                                 <span>Jumlah pelanggan</span>
                                             </div>
                                         </div>
