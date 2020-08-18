@@ -39,7 +39,6 @@ if(isset($_POST['cekout'])){
       </div>
       <h1>NOTA SEKARPER</h1>
       <div id="company" class="clearfix">
-        <br />
         <div>Tedi Rumpala</div>
         <div>17, Agustus 2020</div>
         <?php echo'<div>ID : '.$dtl.'</div>';?>
