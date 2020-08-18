@@ -47,7 +47,7 @@ if(isset($_POST['cekout'])){
       </div>
       <div id="project">
         <div>Bengkel Sekarper</div>
-        <div>Jl. Imogiri Timur Km.6 Dladan Nglebeng, Tamanan, Banguntapan,<br /> Bantul, DIY</div>
+        <div>Jl. Wonosari Km.7,5 Bantul, Yogyakarta</div>
         <div>(+62) 81123456789</div>
         <div><a href="mailto:sekarper@gmail.com">sekarper@gmail.com</a></div>
       </div>
