@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Klinik Mitra Sehat</title>
+	<title>BENGKEL SEKARPER</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!--===============================================================================================-->	
@@ -37,7 +37,7 @@
 				<span class="login100-form-title" style="font-size: 40px; color: #FFFFFF; margin-top: -60px; margin-bottom: 10px">
 					BENGKEL SEKARPER
 					<br>
-					<h6 style="font-size: 14px;">Jl. Imogiri Timur Km.6 Dladan Nglebeng, Tamanan, Banguntapan, Bantul</h6>
+					<h6 style="font-size: 14px;">Jl. Wonosari Km.7,5 Bantul, Yogyakarta</h6>
 				</span>
 				<div class="login100-pic js-tilt" data-tilt>
 					<img src="images/sekarper.png" alt="IMG" style="width: 300px; margin-left: 30px">
